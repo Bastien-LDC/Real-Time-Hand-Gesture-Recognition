@@ -1,0 +1,5 @@
+LINK TO THE "../data" FOLDER IN THE DRIVE:
+
+https://iit0-my.sharepoint.com/personal/bleduc_hawk_iit_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=nghfcV5r5fzy4f5Y1FbyFZky48p%2BTjz%2Bp0iLDErKq8A%3D&folderid=2_0515eeabcfb45419690e62cbc9d8293ef&rev=1&e=RGzNMW
+
+DOWNLOAD THE CONTENTS OF THE FOLDER AND PLACE IT IN THE LOCAL REPOSITORY "../data" FOLDER.

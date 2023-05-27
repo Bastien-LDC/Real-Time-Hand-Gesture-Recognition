@@ -1,0 +1,5 @@
+LINK TO THE "../models" FOLDER IN THE DRIVE:
+
+https://iit0-my.sharepoint.com/personal/bleduc_hawk_iit_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=1xiX%2BioK1eNgLQi3NqNyyovwoDciSy%2Fx4LclM7qSkBg%3D&folderid=2_00147942c86a1407f906be2f0864f0eaf&rev=1&e=JJJY68
+
+DOWNLOAD THE CONTENTS OF THE FOLDER AND PLACE IT IN THE LOCAL REPOSITORY "../models" FOLDER.
